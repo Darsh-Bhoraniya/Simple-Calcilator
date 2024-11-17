@@ -28,4 +28,4 @@ A feature-rich, responsive calculator built using **React.js**, designed with a 
 
 1. Clone the repository:
    ```bash
-   https://github.com/Darsh-Bhoraniya/Simple-Calcilator.git
+   git clone https://github.com/Darsh-Bhoraniya/Simple-Calcilator.git
